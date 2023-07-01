@@ -1,0 +1,19 @@
+{
+  "version": "0.0.3",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-06-30T20:05:19.125Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa2wzQmZxZTFwVjV0NUwzNnc0TGRlMklEQzcwTXp6TzNIWExtZC80dHc3WC9YaHNPTHp1M3FyU0REbzZGenZidmpuN2ZOY1NoNWRteDR4T2xlNnU4bGt3MExNd3RHOEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MTU1MTg2CWZpbGU6dHJhZGVkb2cuYXBwLnRhci5negpaK1U5ajFBUEszQzZLTDh6SzUxSTRkTEJnaHF4RXdKT1FrVDJuanhWdFJ2M1NSdHR6aW0waUJqc283Z0UvcDFYaVQ4azNWUmJjQ01vVEx5MzFUSHRBUT09Cg==",
+      "url": "https://github.com/nirops/tradedog-public/releases/download/v0.0.3/tradedog_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa2wzQmZxZTFwVjVjMGlCS1NMV1hDZEh1NVVjVnRiTnVSSXFpSTQ1UmxUSG5oOEtyUkllZ3RCc283N2VWRzZnU0xuZXNiVGwvR0xjMEFyZWFOc1g1dWxlakk1NlREc1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MTU1MTk5CWZpbGU6dHJhZGVkb2dfMC4wLjNfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Cm1CdmtJMmwwcWQzNXNTdWRPLzAxVU82MkxBelJuNCtDajJKMURmS3RaWDMxYUZWTFg1YzZCTGdnSGw4RDJtUG9XK21kZGZZT0QzTEhsU1pKMVRoV0FRPT0K",
+      "url": "https://github.com/nirops/tradedog-public/releases/download/v0.0.3/tradedog_0.0.3_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa2wzQmZxZTFwVjBqVEhPZ3ZyR1Y3bUFZQ2Q0cUZPUVBoVEhsKzdiR1daNWg0OG5mQUtSNW1tWEtUcjFTakdFQ3MvcUxZNFovbkd2UERSQjc4QUZSZU9lbndRc0k1YndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MTU1NTExCWZpbGU6dHJhZGVkb2dfMC4wLjNfeDY0X2VuLVVTLm1zaS56aXAKZllLM1RpM296UEtUdTEvWW0zTitTeVY0aVdHNmFaditwaWIxOU05c2RyeXE3Uis4Q1JHeXcxYTAvK1RSV0NPblp2anpVN0dMUjM5b29zdlI1a1orQlE9PQo=",
+      "url": "https://github.com/nirops/tradedog-public/releases/download/v0.0.3/tradedog_0.0.3_x64_en-US.msi.zip"
+    }
+  }
+}
